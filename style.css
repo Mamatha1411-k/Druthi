@@ -126,7 +126,7 @@ body {
 .gift1-content { display: flex; align-items: center; gap: 40px; }
 .note-card { background: white; color: #333; padding: 30px; width: 250px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
 .polaroid-strip { background: rgba(255,255,255,0.7); padding: 15px; display: flex; flex-direction: column; gap: 12px; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
-.polaroid-strip img { width: 140px; height: 140px; object-fit: cover; border: 4px solid white; }
+.polaroid-strip img { width: 140px; height: 200px; object-fit: cover; border: 4px solid white; }
 .envelope-box { text-align: center; cursor: pointer; }
 .envelope { width: 150px; height: 100px; background: white; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
 .open-label { color: #0369a1; font-weight: bold; display: block; margin-top: 10px; }
